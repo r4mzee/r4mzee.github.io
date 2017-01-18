@@ -100,7 +100,7 @@ line-height: 1.5em;
     overflow: hidden;
 }
 #lights:hover .glyph{
-    opacity: 0;
+    opacity: 1;
     cursor:default;
     
 }
